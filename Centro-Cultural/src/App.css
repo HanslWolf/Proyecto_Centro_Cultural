@@ -1,0 +1,9 @@
+.App h1{
+  text-align: center;
+}
+.container{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap; /*cuando revase la pagina se desplazara automaticamente a la siguiente linea*/
+  justify-content: center;
+}

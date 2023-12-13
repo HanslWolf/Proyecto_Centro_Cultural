@@ -1,0 +1,19 @@
+.cabezal{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 15%;
+    box-shadow: 2px;
+    background-color:  #0a1a2a;
+    padding: 10px;
+    border: 2px solid #444;
+
+
+}
+.cabezal img{
+    width: 50%;
+    height: 85%;
+}
+.cabezal h1{
+    color: aliceblue;
+}
